@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-**GitTarochan/GitTarochan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I'm currently dedicating myself to student life and programming. I love learning and am always curious about new technologies and ideas.
 
