@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **GitTarochan/GitTarochan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,4 +15,3 @@ Here are some ideas to get you started:
 - 😄 I'm often referred to as Taro-chan.
 
 - ⚡ Fun fact: As a child, I had a strong aversion to wasabi and insisted on having sushi without it. However, one day, I accidentally consumed a lot of wasabi and became hooked on its spicy kick. Now, wasabi is an essential part of my sushi experience! It's fascinating how our tastes can change.
--->
